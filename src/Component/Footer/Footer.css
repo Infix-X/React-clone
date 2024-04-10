@@ -1,0 +1,13 @@
+ul{
+        /* padding-bottom: 105px; */
+        bottom: 0;
+        width: 100%;
+   
+        background-color: rgba(150, 175, 212, 0.4);
+        
+        text-align: center;
+        display: inline-grid;
+        align-content: center;
+        justify-content: center;
+        align-items: center;
+}

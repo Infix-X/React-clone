@@ -1,0 +1,15 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    border-collapse: collapse;
+   
+  }
+  
+  tr:nth-child(even) {
+    background-color: rgba(150, 175, 212, 0.4);
+  }
+  
+  th:nth-child(even),td:nth-child(even) {
+    background-color: rgba(150, 212, 212, 0.4);
+  }
+  tr:hover {background-color: #D6EEEE;}
